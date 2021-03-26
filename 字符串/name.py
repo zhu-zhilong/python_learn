@@ -17,3 +17,7 @@ some_str="zhu-zhilong, is my, name"
 print(some_str.split(','))
 print(some_str.count('zhu'))
 print(some_str.index("i"))
+print(some_str.capitalize())
+print(some_str.casefold())
+print(some_str.center(50,'*'))
+print(len(some_str))
