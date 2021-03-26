@@ -27,3 +27,4 @@ for i in bicycles:
 
 spy=[value**2 for value in range(1,8)] #这是一种方法
 print(spy)
+print('Good night! Everyone!')
